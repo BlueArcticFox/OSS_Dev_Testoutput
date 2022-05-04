@@ -8,7 +8,7 @@ setuptools.setup(
   author='BlueArcticFox',
   author_email='jominhyeok0103@gmail.com',
   url="https://github.com/BlueArcticFox/OSS_Dev_Testoutput",
-  download_url = "https://github.com/BlueArcticFox/OSS_Dev_Testoutput/archive/refs/tags/v0.0.1.zip",
+  download_url = "https://github.com/BlueArcticFox/OSS_Dev_Testoutput/archive/refs/tags/Latest.zip",
   install_requires=['pytest'],
   long_description='oss-dev Testoutput python module',
   long_description_content_type = 'text/markdonw',
