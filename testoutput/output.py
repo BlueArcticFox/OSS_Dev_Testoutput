@@ -1,2 +1,3 @@
 def my_printer(txt):
-  print("my text")
+  print(txt)
+  print("It's Done. go to home")
