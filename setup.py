@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
   include_package_data = True,
   name='OSS_Dev_Testoutput',
-  version='0.0.1',
+  version='0.0.3',
   description='oss-dev my OSS_Dev_Testoutput',
   author='BlueArcticFox',
   author_email='jominhyeok0103@gmail.com',
